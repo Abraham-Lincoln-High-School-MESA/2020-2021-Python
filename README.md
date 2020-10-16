@@ -1,4 +1,2 @@
-# 2020-2021-Python
-Python code and work for the 2020-2021 school year
-jaujdajdnxiuaja
-# Testing
+# 2020-2021 Python
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
