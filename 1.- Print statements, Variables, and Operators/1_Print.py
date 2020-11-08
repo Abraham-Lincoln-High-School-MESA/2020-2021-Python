@@ -23,8 +23,8 @@ print(10 < 5)                                      # True
 
 print("Concatenating" + " " + "text")              # Concatenating text
 
-text = "Concatenating " + "text in a " + "variable!"   # Concatenating text in a variable!
-print(text)
+text = "Concatenating " + "text in a " + "variable!"
+print(text)                                             # Concatenating text in a variable!
 
 word1 = "Concatenating "
 word2 = "several "
