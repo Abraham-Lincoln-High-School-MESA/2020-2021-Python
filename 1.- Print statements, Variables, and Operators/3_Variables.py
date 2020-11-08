@@ -26,14 +26,14 @@
     integers, which only hold integers, and floating, which can hold decimal points
 """
 
-intVariable = 5 + 5 * 2                 # integer variable (numbers)
-print(intVariable)                      # 15
+intVariable = 5 + 5 * 2                         # integer variable (numbers)
+print(intVariable)                              # 15
 
-stringVariable = "this is a variable"  # string variable (text; must be in "quotes")
-print(stringVariable)                  # this is a variable
+stringVariable = "this is a variable"           # string variable (text; must be in "quotes")
+print(stringVariable)                           # this is a variable
 
-booleanVariable = 7 == 7               # boolean variable (True or False)
-print(booleanVariable)                 # True
+booleanVariable = 7 == 7                        # boolean variable (True or False)
+print(booleanVariable)                          # True
 
 ''' There might be times in which we need to convert a variable into another type, for that we
     need to cast a variable. The most common castings are: 
@@ -44,12 +44,12 @@ print(booleanVariable)                 # True
     Here are some examples
 '''
 
-stringChocolatePrice = "2"          # What if I want to know the price for 5 chocolates?
-                                    # I cannot multiply text, so I cannot do stringChocolatePrice * 5
-                                    # I can't do stuff with it :(
+stringChocolatePrice = "2"                      # What if I want to know the price for 5 chocolates?
+                                                # I cannot multiply text, so I cannot do stringChocolatePrice * 5
+                                                # I can't do stuff with it :(
 
-chocolatePrice = int(stringChocolatePrice)   # I can now do stuff with it :)
-print(chocolatePrice * 5)                    # 10
+chocolatePrice = int(stringChocolatePrice)      # I can now do stuff with it :)
+print(chocolatePrice * 5)                       # 10
 
 # Note that when working with int() we have to make sure that the string we are trying to cast
 # contains only numbers, for instance, "2739".
@@ -57,7 +57,7 @@ print(chocolatePrice * 5)                    # 10
 # int("not a number") >> ValueError: invalid literal for int() with base 10
 
 age = 58
-print("His age is " + str(age))             # His age is 58
-                                            # We could also do:
+print("His age is " + str(age))                 # His age is 58
+                                                # We could also do:
 string_Age = str(age)
-print("His age is " + string_Age)           # His age is 58
+print("His age is " + string_Age)               # His age is 58
