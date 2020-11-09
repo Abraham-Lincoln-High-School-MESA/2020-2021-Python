@@ -1,6 +1,6 @@
 #   11/08/2020  @author: Giovanni B
 
-""" Operators are symbols that tell the compiler to perform certain mathematical of logical manipulations.
+""" Operators are symbols that tell the compiler to perform certain mathematical or logical manipulations.
     For instance, arithmetic, comparison, boolean, etc. There are several operators, and they obviously
     have a precedence order, this is, the order of "importance" to decide which one to perform first,
     for which I added an image into the folder that explains it.
@@ -22,7 +22,7 @@ print(7 * 9)                                        # 63; multiplying
 x = 8                                               # We can also use operators with variables
 y = 17
 print(x - y)                                        # -9; subtracting
-print(x + y)                                        # 25; subtracting
+print(x + y)                                        # 25; summing
 
 print(9 % 4)                                        # 1;  reminder of the division
 print(8 ** 2)                                       # 64; to the power
