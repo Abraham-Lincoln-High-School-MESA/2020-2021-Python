@@ -51,7 +51,7 @@ print(str(5) + " times " + str(4) + " is equal to " + str(5 * 4))   # 5 times 4 
     than the literal characters contained therein. This mean these characters have a
     specific function other than being printed.
     
-    The most common escape characters are /n, which inserts a line break, and /t which inserts a tab '''
+    The most common escape characters are \n, which inserts a line break, and \t which inserts a tab '''
 
 print("\nStanzas\nusually\nhave\n4 lines\n")
 '''                                                     Stanzas
