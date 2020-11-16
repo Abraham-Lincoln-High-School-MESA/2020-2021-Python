@@ -8,7 +8,7 @@
     for the statement to work all the code that is to be executed has to be indented with a tab (just press the tab key)
 """
 
-wantCandy = input("Do you want a candy? (yes or no) ")
+wantCandy = input("Do you want a candy? (yes or no): ")
 if wantCandy == "yes":                                                                  # If wantCandy is equal to "yes"
     print("Here you go\n")                                                              # Here you go
 
@@ -30,7 +30,7 @@ if 10 < 0:                                                                      
             do backup plan
 """
 
-wantCandy = input("Do you want a candy? (yes or no) ")
+wantCandy = input("Do you want a candy? (yes or no): ")
 if wantCandy == "yes":                                                                  # If wantCandy is equal to "yes"
     print("Here you go\n")                                                              # Here you go
 
@@ -40,7 +40,7 @@ else:                                                                           
 """ It has elif as well, which we use if we want to check more than one condition, and we can add as many as we want
         if number > 0:
             do task 1
-        if number < 0:
+        elif number < 0:
             do task 2
         else:
             do task 3

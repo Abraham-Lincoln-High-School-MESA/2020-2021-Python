@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a179bc27-2447-4ab4-8213-ca617ebf4e77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_If_statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Boolean_Logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logic Gates.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z_Examples/1_Greeting_User.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z_Examples/2_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z_Examples/3_Password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z_Examples/4_AND_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z_Examples/5_NOT_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z_Examples/6_OR_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z_Examples/7_Discount.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_If_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_If_statements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,22 +158,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="292" key="GridCell.Tab.0.bottom" timestamp="1605496729058">
+    <state width="1259" height="51" key="GridCell.Tab.0.bottom" timestamp="1605499401620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="292" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605496729058" />
-    <state width="1259" height="292" key="GridCell.Tab.0.center" timestamp="1605496729057">
+    <state width="1259" height="51" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605499401620" />
+    <state width="1259" height="51" key="GridCell.Tab.0.center" timestamp="1605499401620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="292" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605496729057" />
-    <state width="1259" height="292" key="GridCell.Tab.0.left" timestamp="1605496729057">
+    <state width="1259" height="51" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605499401620" />
+    <state width="1259" height="51" key="GridCell.Tab.0.left" timestamp="1605499401620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="292" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605496729057" />
-    <state width="1259" height="292" key="GridCell.Tab.0.right" timestamp="1605496729057">
+    <state width="1259" height="51" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605499401620" />
+    <state width="1259" height="51" key="GridCell.Tab.0.right" timestamp="1605499401620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="292" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605496729057" />
+    <state width="1259" height="51" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605499401620" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1605490947735">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
