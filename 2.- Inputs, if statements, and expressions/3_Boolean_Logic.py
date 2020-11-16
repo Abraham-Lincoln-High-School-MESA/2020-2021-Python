@@ -9,7 +9,7 @@
     the idea that there are only two values, and that one is "something" while the other is "nothing"
 
     This is way we can say boolean values are:
-    1 or 0, True or False, High or Low, On or Off
+    1 or 0, True or False, High or Low, On or Off, etc.
 
     Logic gates were originally created as physical real objects, used in electronics, in which by wiring
     switches in a specific way, we could get a gate. This is why all truth tables are represented with
@@ -45,6 +45,6 @@ if wannaParty == "yes" and parentPermission == "yes":       # If you want to go 
 else:                                                       # If you do not want to go to the party or you don't have your parents permission
     print("No party :(\n")                                  # No party :(
 
-num = int(input("Enter a number"))
+num = int(input("Enter a number: "))
 if not num >= 10:                                           # If num is not greater or equal than 10
     print("The number is less than 10: ")                   # The number is less than 10
