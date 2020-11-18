@@ -48,3 +48,31 @@ else:                                                       # If you do not want
 num = int(input("Enter a number: "))
 if not num >= 10:                                           # If num is not greater or equal than 10
     print("The number is less than 10: ")                   # The number is less than 10
+
+# We can combine these gates as well and make more complex conditions
+# For the sake of not doing a coding mess I won't be using inputs, but you can already guess
+# how the code would work
+
+isTuesday = True
+isThursday = False
+isMonday = False
+even = False
+
+if isTuesday or isThursday or (isMonday and not even):   # If today is Tuesday or Thursday or a not even Monday
+    print("Today is odd")                                # Today is odd
+else:
+    print("Today is even")                               # Today is even
+
+# For the sake of not doing a coding mess I won't be using inputs, but you can already guess
+# how the code would work
+
+driversLicense = True
+schoolID = False
+SSN = True
+
+if (driversLicense and schoolID) or SSN:                 # If you either have your (driversLicense and schoolID) or your SSN you can register
+    print("You can register")                            # You can register
+else:
+    print("You cannot register")                         # You cannot register
+
+
