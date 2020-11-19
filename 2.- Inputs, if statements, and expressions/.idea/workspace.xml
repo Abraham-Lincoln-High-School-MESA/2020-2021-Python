@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a179bc27-2447-4ab4-8213-ca617ebf4e77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Boolean_Logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Boolean_Logic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,28 +26,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.3_Boolean_Logic">
-    <configuration name="1_Greeting_User" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2.- Inputs, if statements, and expressions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z_Examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z_Examples/1_Greeting_User.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.k">
     <configuration name="1_Input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2.- Inputs, if statements, and expressions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,13 +111,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="k" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2.- Inputs, if statements, and expressions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.k" />
         <item itemvalue="Python.3_Boolean_Logic" />
         <item itemvalue="Python.2_If_statements" />
         <item itemvalue="Python.1_Input" />
         <item itemvalue="Python.3_Password" />
-        <item itemvalue="Python.1_Greeting_User" />
       </list>
     </recent_temporary>
   </component>
@@ -158,26 +157,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1605587903393">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1605716538526">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605587903393" />
-    <state width="1259" height="24" key="GridCell.Tab.0.bottom" timestamp="1605500076589">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605716538526" />
+    <state width="1259" height="187" key="GridCell.Tab.0.bottom" timestamp="1605729317503">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="24" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605500076589" />
-    <state width="1259" height="24" key="GridCell.Tab.0.center" timestamp="1605500076589">
+    <state width="1259" height="187" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605729317503" />
+    <state width="1259" height="187" key="GridCell.Tab.0.center" timestamp="1605729317503">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="24" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605500076589" />
-    <state width="1259" height="24" key="GridCell.Tab.0.left" timestamp="1605500076589">
+    <state width="1259" height="187" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605729317503" />
+    <state width="1259" height="187" key="GridCell.Tab.0.left" timestamp="1605729317503">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="24" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605500076589" />
-    <state width="1259" height="24" key="GridCell.Tab.0.right" timestamp="1605500076589">
+    <state width="1259" height="187" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605729317503" />
+    <state width="1259" height="187" key="GridCell.Tab.0.right" timestamp="1605729317503">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="24" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605500076589" />
+    <state width="1259" height="187" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605729317503" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1605490947735">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
