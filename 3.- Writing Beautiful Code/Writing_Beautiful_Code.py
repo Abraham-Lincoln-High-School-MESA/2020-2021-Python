@@ -32,9 +32,9 @@ volume = pi * radius ** 2 * height
 #                                  Inputs
 # There should be one space between the input statement and the user’s input
 
-name = input("What is your name?")	    # Do not
+name = input("What is your name?")                  # Do not
 
-name = input("What is your name? ")	    # Do
+name = input("What is your name? ")                 # Do
 
 # ---------------------------------------------
 
@@ -62,10 +62,10 @@ if r == 9:                                          # Do
 
 option = input("Input an option: ")
 
-if option == 1:										# Do not
+if option == 1:	                                    # Do not
   print("Executing task 1")
 
-if option == 1:										# Do
+if option == 1:                                     # Do
     print("Executing task 1")
 
 # ----------------------------------------------
@@ -74,11 +74,11 @@ if option == 1:										# Do
 # Should be at least 2 spaces after code
 # Should have one space between the # and the comment
 
-print("Hello world")#prints something				        Do not
+print("Hello world")#prints something                   Do not
 
 
-print("Hello world")  # prints something				Do
+print("Hello world")    # prints something				Do
 
-print("Hello world")  			            # prints something	Do
+print("Hello world")                # prints something	Do
 
 
