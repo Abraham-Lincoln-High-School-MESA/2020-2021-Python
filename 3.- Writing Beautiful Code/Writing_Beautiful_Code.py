@@ -51,7 +51,7 @@ volume_cone = pi * r**2 * (h / 3)					# Do
 if r==9:                                            # Do not
     print("r is 9")
 
-if r == 9:											# Do
+if r == 9:                                          # Do
     print("r is 9")
 
 # ----------------------------------------------
@@ -74,11 +74,11 @@ if option == 1:										# Do
 # Should be at least 2 spaces after code
 # Should have one space between the # and the comment
 
-print("Hello world")#prints something				    Do not
+print("Hello world")#prints something				        Do not
 
 
 print("Hello world")  # prints something				Do
 
-print("Hello world")  			    # prints something	Do
+print("Hello world")  			            # prints something	Do
 
 
