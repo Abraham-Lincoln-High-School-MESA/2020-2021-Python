@@ -44,9 +44,9 @@ name = input("What is your name? ")	    # Do
 h = 5
 r = 2
 
-volume_cone = pi*r**2*h/3		                    # Do not
+volume_cone = pi*r**2*h/3                           # Do not
 
-volume_cone = pi * r**2 * (h / 3)					# Do
+volume_cone = pi * r**2 * (h / 3)                   # Do
 
 if r==9:                                            # Do not
     print("r is 9")
