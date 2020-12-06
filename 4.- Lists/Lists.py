@@ -29,7 +29,7 @@ stringsOnly = ["Names", "food", "items", "strings"]
 print(stringsOnly)                                                  # ['Names', 'food', 'items', 'strings']
 print()
 
-""" One of several weird thing we do in programming (not only fo this language) is to start counting on 0,
+""" One of several weird thing we do in programming (not only for this language) is to start counting on 0,
     which applies not only to lists, but also loops, functions, counters, and so.
     
     Thus, we use:
@@ -90,7 +90,7 @@ print()
     copy()                      Copies a list
     extend()                    Adds all the elements of an iterable (we'll explain this later)
     
-    For more information in these methods: https://www.programiz.com/python-programming/methods/list
+    For more information on these methods: https://www.programiz.com/python-programming/methods/list
     
     The syntax we use is
     listName.method() 
@@ -131,6 +131,9 @@ print(copy.count("C++"))                                                # 1
 
 copy.reverse()
 print(copy)                                                             # ['Visual Basic', 'Python', 'PHP', 'Java', 'C++']
+
+sublist = copy[0:2]
+print(sublist)                                                          # ['Visual Basic', 'Python']
 
 copy.clear()
 print(copy)                                                             # []
